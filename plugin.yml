@@ -1,0 +1,8 @@
+main: me.wmorales01.vampiriclavadupe.VampiricLavaDupe
+name: VampiricLavaDupe
+version: 1.0
+author: Wmorales01
+
+commands:
+  vampiriclavadupe:
+    aliases: [vld]
